@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## web端
+
 ![image-20250424211327119](C:\Users\吴磊\AppData\Roaming\Typora\typora-user-images\image-20250424211327119.png)
+
+## 移动端
 
 ![image-20250424211246084](C:\Users\吴磊\AppData\Roaming\Typora\typora-user-images\image-20250424211246084.png)
 
